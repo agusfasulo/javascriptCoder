@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://acegif.com/wp-content/uploads/gifs/raining-money-8.gif);
+    background-size: 100rem;
+
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+h1 {
+    background-color: green;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5rem;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+footer p{
+    font-size: .8rem;
+}
