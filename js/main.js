@@ -24,7 +24,7 @@ while (bandera){
     if (operacion == 1 || operacion == 2) {
         bandera = false
     } else {
-        alert("Te pasaste, te vuelvo a preguntar")
+        alert("Tenés que escribir 1 o 2, te vuelvo a preguntar, que queres hacer?")
         operacion = Number(prompt("1: Comprar dólares ------ 2: Vender dólares"))
     }
 }
