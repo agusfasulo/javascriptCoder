@@ -12,8 +12,8 @@ let cbuPesos = prompt("Ingresa el CBU de tu cuenta en pesos")
 let cbuDolares = prompt("Ingresa el CBU de tu cuenta en dólares")
 
 // hgbk
-let valueOficialCompra = Number(144)
-let valueOficialVenta = Number(152)
+let valueOficialCompra = Number(146)
+let valueOficialVenta = Number(154)
 
 
 alert("----- Ingrese la operación a realizar -----")
