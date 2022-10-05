@@ -21,7 +21,7 @@ alert("----- Ingrese la operación a realizar -----")
 let operacion = Number(prompt("1: Comprar dólares ------ 2: Vender dólares"))
 let bandera = true
 while (bandera){
-    if (operacion == 1 || operacion == 2) {
+    if (operacion === 1 || operacion === 2) {
         bandera = false
     } else {
         alert("Tenés que escribir 1 o 2, te vuelvo a preguntar, que queres hacer?")
